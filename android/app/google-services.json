@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "271405819649",
+    "project_id": "shoppay-17570",
+    "storage_bucket": "shoppay-17570.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271405819649:android:9317e4646874f487b91d00",
+        "android_client_info": {
+          "package_name": "com.example.shopee2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271405819649-dpv91mg8ebrsa4fuo5so76m1v5jmbj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxIEEza4R0qJDGxZI01kkrKY9uPrECfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271405819649-dpv91mg8ebrsa4fuo5so76m1v5jmbj0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271405819649-2i4gic9sifmcvf04llmj0d27vu8netq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopee2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271405819649:android:9db76093e41880a9b91d00",
+        "android_client_info": {
+          "package_name": "com.example.shopee_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271405819649-dpv91mg8ebrsa4fuo5so76m1v5jmbj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxIEEza4R0qJDGxZI01kkrKY9uPrECfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271405819649-dpv91mg8ebrsa4fuo5so76m1v5jmbj0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271405819649-2i4gic9sifmcvf04llmj0d27vu8netq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopee2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
